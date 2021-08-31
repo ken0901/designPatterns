@@ -7,7 +7,7 @@ public class Main {
 			
 		// connecting
 //		ainterface.funcA();
-//		AObj aObj = new AObj();
+		//AObj aObj = new AObj();
 		//aObj.funcAA();
 		
 		
