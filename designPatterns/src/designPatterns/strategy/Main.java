@@ -6,7 +6,7 @@ public class Main {
 //		Ainterface ainterface = new AinterfaceImpl(); 
 			
 		// connecting
-//		ainterface.funcA();
+		//ainterface.funcA();
 		//AObj aObj = new AObj();
 		//aObj.funcAA();
 		
