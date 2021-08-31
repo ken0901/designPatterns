@@ -8,7 +8,7 @@ public class Main {
 		// connecting
 //		ainterface.funcA();
 //		AObj aObj = new AObj();
-//		aObj.funcAA();
+		//aObj.funcAA();
 		
 		
 		GameCharacter character = new GameCharacter();
