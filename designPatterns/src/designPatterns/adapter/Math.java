@@ -12,7 +12,7 @@ public class Math {
 		return num/2;
 	}
 	
-	
+	//add more function
 	public static Double doubled(Double d) {
 		return d*2;
 	}
