@@ -16,7 +16,6 @@ package designPatterns.templateMethodPattern.otherEx;
  * 
  * 4. Supply equipments
  * • supplyEquipment(Solder soldier); 
- * 
 
 */
 public abstract class AbstSoldierConscriptionHelper {
